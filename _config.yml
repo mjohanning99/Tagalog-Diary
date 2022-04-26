@@ -1,16 +1,16 @@
 # Site settings
-title:          Tagalog diary ni Marvin 🇵🇭
-description:    "My diary / blog regarding my learning of Tagalog"
-url:            "https://chesterhow.github.io"
+title:          Ang Tagalog diary ni Marvin 🇵🇭
+description:    "My diary regarding my learning of Tagalog."
+url:            "https://tagalog.marvinjohanning.de"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Marvin Johanning
+  url:          https://marvinjohanning.de
+  email:        info@marvinjohanning.de
 
 # Build settings
 markdown:       kramdown
@@ -31,7 +31,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       10
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
